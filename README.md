@@ -48,6 +48,6 @@ Ora il prossimo passo consiste nel collegare il cicalino alla scheda UNO, il cav
 
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2019/11/cicalino2.jpg?w=622&ssl=1)
 
-Il codice è presente nel seguente link [GitHub Pages](https://pages.github.com/)
+Il codice è presente nel seguente [Link][(https://pages.github.com/](https://github.com/SimoneMoreWare/Pirati_dei_caraibi_Arduino/blob/main/pirati.ino))
 
 Una volta copiato il programma basta incollarlo su un nuovo progetto su Arduino Ide, e caricare il programma sulla propria board, ed ecco che potrete udire nella totale magnificenza la colonna sonora dei pirati dei Caraibi. Un ringraziamento speciale va al musicista Daniele Cassa che ha realizzato lo sparito per conto del programmatore, aiutandolo per quanto riguarda le note da utilizzare e la durata di ciascuna di esse.
